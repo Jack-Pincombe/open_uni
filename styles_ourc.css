@@ -9,12 +9,14 @@ color: #666666;
 background-color:#25323A;
 }
 
-p {text-align: left;
+p {
+    text-align: left;
+}
 
 #header {
 position:relative;
 width: 680px;
-height:100px
+height:100px;
 margin-left:29px;
 margin-right:20px;
 background: url(images/header.jpg) no-repeat;
