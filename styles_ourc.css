@@ -24,9 +24,9 @@ background: url(images/header.jpg) no-repeat;
 
 #page
 {
-margin: 0; 
-height: 100%;  
-position: relative; 
+margin: 0;
+height: 100%;
+position: relative;
 background: #25323A url(images/background.jpg) repeat-y;
 width: 6800px;
 }
@@ -122,6 +122,7 @@ font-size:14px;
 font-weight:bold;
 color:#252F33;
 padding-top:19px;
+display: block;
 }
 
 .hmenu:hover
@@ -145,4 +146,3 @@ font-size:10px;
 color:#000000;
 padding-top:24px;
 }
-
